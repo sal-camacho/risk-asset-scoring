@@ -2,6 +2,8 @@
 
 This project focuses on evaluating potential security risks to a commercial bank's key asset—its funds—by applying the NIST Cybersecurity Framework. You analyzed vulnerabilities, assigned risk scores, and used these insights to prioritize threat mitigation strategies. This practice activity demonstrates how likelihood and impact combine to determine overall risk severity.
 
+---
+
 ## What’s Included
 
 - Operational Environment Summary  
@@ -28,7 +30,7 @@ This project focuses on evaluating potential security risks to a commercial bank
 
 ---
 
-### Risk Notes
+## Risk Notes
 
 Even though the risks are known, that alone is not enough to prevent malicious actors from exploiting weak points. Active controls—such as continuous monitoring and regular security updates—are essential to stay ahead of evolving threats within the bank's operational environment.
 
