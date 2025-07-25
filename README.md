@@ -1,7 +1,7 @@
 
 #  Risk Assessment Activity: Commercial Bank Scenario
 
-## 📘 Activity Overview
+# Activity Overview
 
 This project focuses on evaluating potential security risks to a commercial bank's key asset—its funds—by applying the NIST Cybersecurity Framework. You analyzed vulnerabilities, assigned risk scores, and used these insights to prioritize threat mitigation strategies. This practice activity demonstrates how likelihood and impact combine to determine overall risk severity.
 
