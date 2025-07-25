@@ -34,3 +34,11 @@ This project focuses on evaluating potential security risks to a commercial bank
 
 Even though the risks are known, that alone is not enough to prevent malicious actors from exploiting weak points. Active controls—such as continuous monitoring and regular security updates—are essential to stay ahead of evolving threats within the bank's operational environment.
 
+## Reflection
+This activity gave me hands-on experience assessing risk in a high-stakes financial environment. Applying contextual classifications to asset vulnerabilities helped solidify my understanding of how threat likelihood and severity combine to shape security priorities. It also highlighted the importance of structured documentation when communicating risk strategies within professional cybersecurity frameworks.
+
+---
+
+## Screenshot of Completed Spreadsheet
+![Home Asset Inventory](images/home-asset-inventory.png)
+> This image showcases the finalized asset inventory and risk scoring submitted for the NIST-based commercial bank scenario in my cybersecurity training.
