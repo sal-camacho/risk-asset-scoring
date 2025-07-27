@@ -2,8 +2,6 @@
 
 This project focuses on evaluating potential security risks to a commercial bank's key asset—its funds—by applying the NIST Cybersecurity Framework. You analyzed vulnerabilities, assigned risk scores, and used these insights to prioritize threat mitigation strategies. This practice activity demonstrates how likelihood and impact combine to determine overall risk severity.
 
----
-
 ## What’s Included
 
 - Operational Environment Summary  
@@ -12,14 +10,14 @@ This project focuses on evaluating potential security risks to a commercial bank
 - Severity scores showing impact level  
 - Priority scores calculated using `Likelihood × Severity`
 
----
-
 ##  Risk Assessment Activity: Commercial Bank Scenario
 You've joined a new cybersecurity team at a commercial bank. The team is conducting a risk assessment of the bank's current operational environment. As part of the assessment, they are creating a risk register to help them focus on securing the most vulnerable risks.
 
 A risk register is a central record of potential risks to an organization's assets, information systems, and data. Security teams commonly use risk registers when conducting a risk assessment.
 
 Your supervisor asks you to evaluate a set of risks that the cybersecurity team has recorded in the risk register. For each risk, you will first determine how likely that risk is to occur. Then, you will determine how severely that risk may impact the bank. Finally, you will calculate a score for the severity of that risk. You will then compare scores across all risks so your team can determine how to prioritize their attention for each risk.
+
+---
 
 ## My Contributions
 
@@ -42,6 +40,9 @@ This activity gave me hands-on experience assessing risk in a high-stakes financ
 
 ---
 
-## Screenshot of Completed Spre
+## Screenshot of Exemplar & Matrix
 ![Risk Register](images/risk-asset-scoring.png)
-> This image showcases the finalized asset inventory and risk scoring submitted for the NIST-based commercial bank scenario in my cybersecurity training.
+> This image showcases the finalized asset inventory and risk scoring exemplar for the NIST-based commercial bank scenario in my cybersecurity training.
+
+<img width="538" height="813" alt="25" src="https://github.com/user-attachments/assets/d620564f-858b-4425-916d-e3f1ed88834f" />
+<img width="530" height="812" alt="26" src="https://github.com/user-attachments/assets/a674beee-6569-4ef9-aaa9-abfcbeceeea3" />
