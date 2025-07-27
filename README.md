@@ -39,6 +39,6 @@ This activity gave me hands-on experience assessing risk in a high-stakes financ
 
 ---
 
-## Screenshot of Completed Spreadsheet
-![Home Asset Inventory](images/home-asset-inventory.png)
+## Screenshot of Completed Spre
+![Risk Register](images/risk-asset-scoring.png)
 > This image showcases the finalized asset inventory and risk scoring submitted for the NIST-based commercial bank scenario in my cybersecurity training.
